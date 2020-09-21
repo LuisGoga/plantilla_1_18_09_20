@@ -1,0 +1,68 @@
+body{
+    width: 960px;
+}
+#encabezado{display: flex;justify-content: space-between;}
+
+#empresa{display: flex; flex-direction: column; size: 24px; margin: 0%;padding: 0%;}
+
+#logo{ font-size: 24px;  color: grey; font-family: 'Courier New', Courier, monospace;}
+
+#claim{color: grey; font-family: serif; display: flex;
+flex-direction: column; size: 24px; margin: 0%;padding: 0%;}
+
+#menu{background-color: tomato;  display: flex;height: 120%;padding: 10px 25px 10px 25px; border-radius: 7px;}
+
+#padre_articulos{display: flex;justify-content: space-around;}
+
+#hijo_articulos{display: flex;justify-content: space-between;}
+
+#links{font-size: 12px;  color: white; text-decoration: none; margin: 10px;}
+
+#nota{font-size: 26px;color: gray; font-style: italic; text-align: center;}
+
+#imagen_principal{width: 960px; height: 350px;}
+
+#secciones{width: 25%;  color: white; font-family: Arial, Helvetica, sans-serif; background-color:
+ tomato;  center; border-radius: 7px; text-align: center; margin-left: auto; margin-right: auto; }
+
+ 
+
+ #los_servicios{display: flex; justify-content: center; margin-left: auto; margin-right: auto;}
+
+ #articulos1{display: flex; justify-content: center;}
+
+ #nuestro_servicio{ margin-left: auto; margin-right: auto;}
+
+ a { color: red;  text-decoration: none;}
+
+ p {color: gray;}
+
+ .nombre_gris{color: gray;}
+
+ #Foto_perfil{width: 75px; height: 75px;}
+
+ #panoramicas{ width: 300px max-content; width: i60px max-content ;}
+
+ #our_player{display: flex; justify-content: space-between;}
+
+ #blog {color: gray; font-family: sans-serif;}
+
+ #contacto{display: flex;font-size: 8px; color: gray; }
+
+ #contenedor {display: flex; }
+
+ #latest_from_blog{display: flex;}
+
+ #latest_from_blog_01{}
+
+ #aside{margin-left: auto; margin-right: auto;}
+
+ #none_decoration {color: gray; list-style: none;}
+
+ #footer{display: flex; flex-direction: row;justify-content: space-between;}
+
+ 
+
+ 
+
+ 

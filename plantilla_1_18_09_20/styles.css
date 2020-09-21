@@ -1,0 +1,11 @@
+#titulo {
+   color: royalblue; font-style: oblique;
+  }
+  #contenido { color: white;
+    background-color: silver;
+  }
+  #pie {
+   color: violet; list-style: none;
+  }
+
+  #pista {list-style: text-decoration: none; }
